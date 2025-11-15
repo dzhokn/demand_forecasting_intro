@@ -1,0 +1,110 @@
+city,state,country,latitude,longitude
+Augusta,Maine,United States,44.3158847,-69.7738995
+Bismarck,North Dakota,United States,46.808327,-100.783739
+Charleston,West Virginia,United States,38.3505995,-81.6332812
+Tucson,Arizona,United States,32.2228765,-110.974847
+Burlington,Vermont,United States,44.4761601,-73.212906
+Columbia,South Carolina,United States,34.000754,-81.0352313
+Birmingham,Alabama,United States,33.5206824,-86.8024326
+Pittsburgh,Pennsylvania,United States,40.4416941,-79.9900861
+Rapid City,South Dakota,United States,44.0806041,-103.228023
+Manchester,New Hampshire,United States,42.9956397,-71.4547891
+Nashua,New Hampshire,United States,42.7656251,-71.4677032
+Cedar Rapids,Iowa,United States,41.9758872,-91.6704053
+Glendale,Arizona,United States,33.5386858,-112.185994
+Boston,Massachusetts,United States,42.3554334,-71.060511
+Indianapolis,Indiana,United States,39.7683331,-86.1583502
+Denver,Colorado,United States,39.7392364,-104.984862
+Providence,Rhode Island,United States,41.8239891,-71.4128343
+Albuquerque,New Mexico,United States,35.0841034,-106.650985
+Fort Smith,Arkansas,United States,35.3880338,-94.4265011
+Sacramento,California,United States,38.5810606,-121.493895
+Houston,Texas,United States,29.7589382,-95.3676974
+Mesa,Arizona,United States,33.4151005,-111.831455
+Las Vegas,Nevada,United States,36.1674263,-115.1484131
+Little Rock,Arkansas,United States,34.7465071,-92.2896267
+Worcester,Massachusetts,United States,42.2625621,-71.8018877
+Dallas,Texas,United States,32.7762719,-96.7968559
+New Haven,Connecticut,United States,41.3082138,-72.9250518
+New York City,New York,United States,40.7127281,-74.0060152
+Fargo,North Dakota,United States,46.877229,-96.789821
+Baltimore,Maryland,United States,39.2908816,-76.610759
+Tuscaloosa,Alabama,United States,33.2095614,-87.5675258
+Phoenix,Arizona,United States,33.4484367,-112.074141
+Wilmington,Delaware,United States,39.7459468,-75.546589
+Spokane,Washington,United States,47.6571934,-117.42351
+Chicago,Illinois,United States,41.8755616,-87.6244212
+Cheyenne,Wyoming,United States,41.139981,-104.820246
+Columbus,Ohio,United States,39.9622601,-83.0007065
+Wichita,Kansas,United States,37.6922361,-97.3375448
+Boise,Idaho,United States,43.6166163,-116.200886
+San Jose,California,United States,37.3361663,-121.890591
+Omaha,Nebraska,United States,41.2587459,-95.9383758
+Provo,Utah,United States,40.2337289,-111.6587085
+St. Paul,Minnesota,United States,44.9497487,-93.0931028
+Dover,Delaware,United States,39.158168,-75.5243682
+Philadelphia,Pennsylvania,United States,39.9527237,-75.1635262
+Aurora,Illinois,United States,41.7571701,-88.3147539
+Seattle,Washington,United States,47.6038321,-122.330062
+Hartford,Connecticut,United States,41.764582,-72.6908547
+Sioux Falls,South Dakota,United States,43.5476008,-96.7293629
+Lincoln,Nebraska,United States,40.8088861,-96.7077751
+Colorado Springs,Colorado,United States,38.8339578,-104.825348
+Grand Rapids,Michigan,United States,42.9632425,-85.6678639
+Savannah,Georgia,United States,32.0790074,-81.0921335
+Atlanta,Georgia,United States,33.7544657,-84.3898151
+Rochester,New York,United States,43.157285,-77.615214
+Cincinnati,Ohio,United States,39.1014537,-84.5124602
+Newark,New Jersey,United States,40.735657,-74.1723667
+Reno,Nevada,United States,39.5261788,-119.812658
+Jersey City,New Jersey,United States,40.7215682,-74.047455
+Annapolis,Maryland,United States,38.9786401,-76.492786
+San Diego,California,United States,32.7174202,-117.162772
+Springfield,Illinois,United States,39.7990175,-89.6439575
+Tampa,Florida,United States,27.9477595,-82.458444
+St. Louis,Missouri,United States,38.6280278,-90.1910154
+Montgomery,Alabama,United States,32.3777111,-86.3090775
+Chandler,Arizona,United States,33.3062031,-111.841185
+Minneapolis,Minnesota,United States,44.9772995,-93.2654692
+Detroit,Michigan,United States,42.3315509,-83.0466403
+Orlando,Florida,United States,28.5421109,-81.3790304
+Richmond,Virginia,United States,37.5385087,-77.43428
+Virginia Beach,Virginia,United States,36.8496579,-75.9760751
+Missoula,Montana,United States,46.8701049,-113.995267
+Kansas City,Missouri,United States,39.100105,-94.5781416
+Cleveland,Ohio,United States,41.4996574,-81.6936772
+San Antonio,Texas,United States,29.4246002,-98.4951405
+Madison,Wisconsin,United States,43.07469,-89.3841663
+Tulsa,Oklahoma,United States,36.1563122,-95.9927516
+Portland,Oregon,United States,45.5202471,-122.674194
+Santa Fe,New Mexico,United States,35.6876096,-105.938456
+Los Angeles,California,United States,34.0536909,-118.242766
+Des Moines,Iowa,United States,41.5868654,-93.6249494
+Fort Wayne,Indiana,United States,41.0799898,-85.1386015
+Topeka,Kansas,United States,39.049011,-95.677556
+Huntington,West Virginia,United States,38.4192496,-82.445154
+Billings,Montana,United States,45.7874957,-108.49607
+Montpelier,Vermont,United States,44.2602244,-72.5750364
+Tallahassee,Florida,United States,30.4380832,-84.2809332
+Nashville,Tennessee,United States,36.1622767,-86.7742984
+New Orleans,Louisiana,United States,29.9559145,-90.0730259
+San Francisco,California,United States,37.7792588,-122.4193286
+Mobile,Alabama,United States,30.6913462,-88.0437509
+Miami,Florida,United States,25.7741566,-80.1935973
+Louisville,Kentucky,United States,38.2542376,-85.759407
+Fayetteville,Arkansas,United States,36.0625843,-94.1574328
+Knoxville,Tennessee,United States,35.9603948,-83.9210261
+Jackson,Mississippi,United States,32.2998686,-90.1830408
+Salem,Oregon,United States,44.9391565,-123.033121
+Casper,Wyoming,United States,42.8501191,-106.325138
+Oklahoma City,Oklahoma,United States,35.4729886,-97.5170536
+Milwaukee,Wisconsin,United States,43.0386475,-87.9090751
+Gulfport,Mississippi,United States,30.3674198,-89.0928155
+Lexington,Kentucky,United States,38.0464066,-84.4970393
+Austin,Texas,United States,30.2711286,-97.7436995
+Jacksonville,Florida,United States,30.3321838,-81.655651
+Salt Lake City,Utah,United States,40.7596198,-111.886797
+Baton Rouge,Louisiana,United States,30.4494155,-91.1869659
+Huntsville,Alabama,United States,34.729847,-86.5859011
+Memphis,Tennessee,United States,35.1460249,-90.0517638
+,,,18.7778874,100.773732
