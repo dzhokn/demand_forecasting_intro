@@ -1,0 +1,1 @@
+We have two sources of sales data (*units, price, location*, etc.). Based on the historical data we want to develop an **auto-regressive model** that predicts what will the sales quantities be for each *product-location* pair for **1 day ahead**.
